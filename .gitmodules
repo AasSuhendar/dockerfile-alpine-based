@@ -1,0 +1,3 @@
+[submodule "frontend-vue-dockerize"]
+	path = frontend-vue-dockerize
+	url = https://github.com/AasSuhendar/Vue-dockerize.git
